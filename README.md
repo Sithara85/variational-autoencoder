@@ -7,3 +7,5 @@ In this notebook, a Variational Autoencoder (VAE) is created and used to generat
 3. The VAE is created and trained to then generate synthetic data. Based on this data, the classification network is trained and evaluated. 
 
 Indeed, the VAE is able to outperform both benchmark models.
+
+A more detailed description of the implemented experiments can be found here: https://humboldt-wi.github.io/blog/research/information_systems_1819/generativemodels/
